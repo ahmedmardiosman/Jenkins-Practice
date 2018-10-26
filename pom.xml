@@ -31,7 +31,7 @@
 		<profile>
 			<id>deploy</id>
 			<build>
-				<directory>C:\LocalInstall\Servers\wildfly-10.1.0.Final\wildfly-10.1.0.Final\standalone\deployments</directory>
+				<directory>C:\Users\Admin\Ahmeds Applications\wildfly-10.1.0.Final\standalone\deployments</directory>
 			</build>
 		</profile>
 	</profiles>
